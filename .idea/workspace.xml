@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3f1e024-1d7c-4c73-b26d-287d0692211c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_konkretni_letovi.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_konkretni_letovi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_letovi.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_letovi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HGR82T9EOTKlehiZ8JsCjyK6uk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ref/2022-op-projekat-referentna-implementacija" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="projekat-2022" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="projekat-2022" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\faks\osnove programiranja\proj\projekat-2022\test" />
+      <recent name="D:\faks\osnove programiranja\proj\projekat-2022" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_letovi.LetoviTest.test_fleksibilni_letovi">
+    <configuration name="test_korisnici_checkpoint_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rajta\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="D:\faks\osnove programiranja\proj\projekat-2022\test\test_korisnici_checkpoint_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_izvestaji.IzvestajiTest.test_izvestaj_ubc_prodatih_karata_30_dana_po_prodavcima" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="projekat-2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_izvestaji.IzvestajiTest.test_izvestaj_ubc_prodatih_karata_30_dana_po_prodavcima&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_karte.KarteTest.testiraj_karte_fajl" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="projekat-2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_karte.KarteTest.testiraj_karte_fajl&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_letovi.LetoviTest.test_fleksibilni_letovi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="projekat-2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_letovi.LetoviTest.test_fleksibilni_letovi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_letovi.LetoviTest.test_trazenje_10_najjeftinijih_letova_uspesno" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="projekat-2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_letovi.LetoviTest.test_trazenje_10_najjeftinijih_letova_uspesno&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_karte.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="projekat-2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_karte.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_korisnici_checkpoint_1" />
+      <item itemvalue="Python tests.pytest in test_karte.py" />
+      <item itemvalue="Python tests.pytest for test_karte.KarteTest.testiraj_karte_fajl" />
+      <item itemvalue="Python tests.pytest for test_izvestaji.IzvestajiTest.test_izvestaj_ubc_prodatih_karata_30_dana_po_prodavcima" />
+      <item itemvalue="Python tests.pytest for test_letovi.LetoviTest.test_trazenje_10_najjeftinijih_letova_uspesno" />
+      <item itemvalue="Python tests.pytest for test_letovi.LetoviTest.test_fleksibilni_letovi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_letovi.LetoviTest.test_fleksibilni_letovi" />
+        <item itemvalue="Python tests.pytest for test_letovi.LetoviTest.test_trazenje_10_najjeftinijih_letova_uspesno" />
+        <item itemvalue="Python tests.pytest for test_izvestaji.IzvestajiTest.test_izvestaj_ubc_prodatih_karata_30_dana_po_prodavcima" />
+        <item itemvalue="Python tests.pytest for test_karte.KarteTest.testiraj_karte_fajl" />
+        <item itemvalue="Python tests.pytest in test_karte.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3f1e024-1d7c-4c73-b26d-287d0692211c" name="Default Changelist" comment="" />
+      <created>1667909294954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667909294954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1673355967939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1673355967939" />
+    <state width="1515" height="64" key="GridCell.Tab.0.bottom" timestamp="1673357275685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="64" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673357275685" />
+    <state width="1515" height="64" key="GridCell.Tab.0.center" timestamp="1673357275685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="64" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673357275685" />
+    <state width="1515" height="64" key="GridCell.Tab.0.left" timestamp="1673357275685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="64" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673357275685" />
+    <state width="1515" height="64" key="GridCell.Tab.0.right" timestamp="1673357275685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="64" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673357275685" />
+    <state width="1515" height="354" key="GridCell.Tab.1.bottom" timestamp="1673357275681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="354" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673357275681" />
+    <state width="1515" height="354" key="GridCell.Tab.1.center" timestamp="1673357275680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="354" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1673357275680" />
+    <state width="1515" height="354" key="GridCell.Tab.1.left" timestamp="1673357275680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="354" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1673357275680" />
+    <state width="1515" height="354" key="GridCell.Tab.1.right" timestamp="1673357275681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="354" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1673357275681" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1673355996480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1673355996480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_karte.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_izvestaji.py</url>
+          <line>457</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_letovi.py</url>
+          <line>404</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_letovi.py</url>
+          <line>1038</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_letovi.py</url>
+          <line>1018</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
