@@ -1,0 +1,10 @@
+id,naziv,broj_redova,pozicije_sedista
+
+0,Boeing 787,51,"['A','B','C','D','E','F','G','H','I']"
+
+1,Boeing 747,60,"['A','B','C','D','E','F','G','H','I']"
+
+2,Airbus A380,61,"['A','B','C','D','E','F','G','H','I']"
+
+3,Airbus A320,58,"['A','B','C','D','E','F','G','H','I']"
+
